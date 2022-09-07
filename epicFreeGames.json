@@ -1,0 +1,47 @@
+{
+    "WARNING": "This list is manually updated. Widesteal321.github.io is not affiliated with Epic Games. Date format is DD/MM/YYY, prices are USD, times are NZST.",
+    "Games": {
+        "Current": {
+            "Godfall Challenger Edition": {
+                "Price": {
+                    "Now": 0,
+                    "Before": 14
+                },
+                "SaleEnds": "17/12/2021 05:00AM",
+                "Link": "https://www.epicgames.com/store/en-US/p/godfall--challenger-edition",
+                "NOTE": "Free to play normally"
+            },
+            "Prison Architect": {
+                "Price": {
+                    "Now": 0,
+                    "Before": 30
+                },
+                "SaleEnds": "17/12/2021 05:00AM",
+                "Link": "https://www.epicgames.com/store/en-US/p/prison-architect"
+            }
+        },
+        "Next": {
+            "TBA": {
+                "unconfirmed": -1
+            }
+        },
+        "Previous": {
+            "while True: learn()": {
+                "Price": {
+                    "Now": 13,
+                    "Before": 13
+                },
+                "SaleEnds": "10/12/2021 05:00AM",
+                "Link": "https://www.epicgames.com/store/en-US/p/while-true-learn"
+            },
+            "Dead by Daylight": {
+                "Price": {
+                    "Now": 20,
+                    "Before": 20
+                },
+                "SaleEnds": "10/12/2021 05:00AM",
+                "Link": "https://www.epicgames.com/store/en-US/p/dead-by-daylight"
+            }
+        }
+    }
+}
